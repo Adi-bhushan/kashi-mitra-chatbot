@@ -4,7 +4,7 @@ A sophisticated, AI-powered chatbot that acts as a virtual tour guide for the ho
 
 ---
 
-### ✨ Live Demo
+###  Live Demo
 
  **You can chat with the live version of the bot here:**  https://kashi-mitra-chatbot.streamlit.app/
 ### 📋 About The Project
@@ -12,7 +12,7 @@ A sophisticated, AI-powered chatbot that acts as a virtual tour guide for the ho
 Kashi Mitra is a conversational AI built using a Retrieval-Augmented Generation (RAG) architecture. It provides accurate, context-aware information about Varanasi's famous ghats, temples, food, and culture. The goal is to offer a helpful and intelligent guide for tourists and pilgrims.
 
 
-### 🚀 Features
+###  Features
 
 * **Natural Conversation:** Ask questions in plain English.
 * **Conversational Memory:** The bot remembers the last topic for natural follow-up questions.
@@ -22,7 +22,7 @@ Kashi Mitra is a conversational AI built using a Retrieval-Augmented Generation 
 
 ---
 
-### 🛠️ Built With
+###  Built With
 
 * **Python**
 * **Streamlit** - For the web interface
@@ -31,7 +31,7 @@ Kashi Mitra is a conversational AI built using a Retrieval-Augmented Generation 
 
 ---
 
-### ⚙️ How to Run Locally
+###  How to Run Locally
 
 1.  **Clone the repository:**
     ```sh
